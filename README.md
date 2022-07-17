@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-
-
-- My education bachelor's degree, bioinformatics department , Faculty of computer science, Assuit University 
-- an energetic fresh graduate seeking to prepare myself for employment in the
-  computing field, and improve my understanding of computer systems and their
-  design by joining your company.
-- programming language c++ , c# , python , backend django
-- I have volunteer experience in Enactus , ACM , Triple bond team
-- eman ibrahim
-
-
-- How to reach me: emanibrahim3555@gmail.com
+- I have a Bachelor's degree in bioinformatics from the Faculty of Computer and Information, Assuit University. 
+- I'm an energetic fresh graduate seeking to prepare myself for employment in the software development field, and improve my understanding of computer systems and their design.
+- I write code in C++, C#, Python, and Django.
+- I have volunteering experience at Enactus, ACM, and Triple bond team.
+- Reach me at: emanibrahim3555@gmail.com

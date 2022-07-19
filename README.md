@@ -5,5 +5,4 @@
 - I write code in C++, C#, Python, and Django.
 - I have volunteering experience at Enactus, ACM, and Triple bond team.
 - Reach me at: emanibrahim3555@gmail.com
-.
 
